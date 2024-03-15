@@ -1,0 +1,3 @@
+[submodule "solana-intro-frontend"]
+	path = solana-intro-frontend
+	url = git@github.com:buildspace/solana-intro-frontend.git
